@@ -125,7 +125,7 @@ export default function App() {
               <GraduationCap size={24} />
             </div>
             <div>
-              <h1 className="font-bold text-lg tracking-tight">EduPath</h1>
+              <h1 className="font-bold text-lg tracking-tight">EduPath Smada</h1>
               <p className="text-[10px] text-gray-500 uppercase tracking-widest font-semibold">Kurikulum Merdeka</p>
             </div>
           </div>
@@ -483,7 +483,7 @@ export default function App() {
         <div className="max-w-5xl mx-auto px-4 text-center space-y-4">
           <div className="flex items-center justify-center gap-2 text-gray-400">
             <GraduationCap size={20} />
-            <span className="font-bold tracking-widest text-xs uppercase">EduPath</span>
+            <span className="font-bold tracking-widest text-xs uppercase">EduPath Smada</span>
           </div>
           <p className="text-sm text-gray-500">Membantu siswa menemukan masa depan yang cerah melalui Kurikulum Merdeka.</p>
         </div>
